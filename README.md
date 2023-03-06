@@ -2,7 +2,7 @@
 
 aplikace vypíše zájmy
 
-(https://educhem.cz/)
+[Educhem](https://educhem.cz/)
 
 
 
